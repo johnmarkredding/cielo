@@ -1,8 +1,13 @@
 # cielo
 Dockerized Node.js chat api using GraphQL
 
-## Demonstrates
-- Docker
-- AWS SQS
-- GraphQL
-- Observables
+## Features
+- Group chat
+    - Named
+    - Group photo
+    - Nicknames(?)
+- Link previews(?)
+- Image upload
+- Contact chat search
+- Messages search including all chats
+- Specific chat message search
