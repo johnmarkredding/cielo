@@ -6,8 +6,11 @@
 **/.project
 **/.settings
 **/.toolstarget
+# VSCode
 **/.vs
 **/.vscode
+**/.code-workspace
+# /VSCode
 **/*.*proj.user
 **/*.dbmdl
 **/*.jfm
